@@ -1,7 +1,7 @@
 {
-	"name": "UmaruBot",
+	"name": "RefatBot",
 	"version": "31.7.2",
-	"description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord.",
+	"description": "A simple Facebook Messenger Bot made by me(REFAT SHAHRIAR).",
 	"main": "mirai.js",
 	"scripts": {
 		"start": "node index",
@@ -10,7 +10,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/umaruchan0x1861/umarubot1.1.1"
+		"url": "https://github.com/REFAT-156/Messenger_Bot"
 	},
 	"keywords": [
 		"bot",
@@ -18,16 +18,16 @@
 		"projectmirai",
 		"messenger",
 		"mirai",
-		"catalizcs",
-		"spermlord",
+		"refat",
+		"shahriar",
 		"miraipr0ject"
 	],
-	"author": "John Lester",
+	"author": "Refat Shahriar",
 	"license": "GPL-3.0",
 	"bugs": {
-		"url": "https://github.com/umaruchan0x1861/umarubot1.1.1/issues"
+		"url": "https://github.com/REFAT-156/Messenger_Bot/issues"
 	},
-	"homepage": "https://github.com/umaruchan0x1861/umarubot1.1.1",
+	"homepage": "https://github.com/REFAT-156/Messenger_Bot",
 	"dependencies": {
 		"@maihuybao/fca-unofficial": "^1.3.13-2",
 		"@miraipr0ject/assets": "",
